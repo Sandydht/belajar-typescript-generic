@@ -32,8 +32,8 @@
       expect(data.value).toBe(123);
 
       const dataString = new GenericData<string>('Sandy Dwi Handoko Trapsilo');
-      const firstName = dataString.value.substring(0, 3);
-      expect(firstName).toBe('Sandy Dwi Handoko Trapsilo');
+      const firstName = dataString.value.substring(0, 4);
+      expect(firstName).toBe('Sandy');
     });
   });
   ```
