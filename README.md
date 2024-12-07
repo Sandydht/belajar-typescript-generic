@@ -28,5 +28,5 @@
 # Setup TypeScript untuk Jest
 * ``` npm install --save-dev @babel/preset-typescript ```
 * ``` npm install --save-dev @jest/globals ```
-* [https://jest.io/docs/getting-started#using-typescript](https://jest.io/docs/getting-started#using-typescript)
+* [https://jestjs.io/docs/getting-started#using-typescript](https://jestjs.io/docs/getting-started#using-typescript)
 
